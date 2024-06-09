@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Disqueria", "Client_Disqueria\Client_Disqueria.csproj", "{09AA089D-7C6A-4397-9F3E-ABE388B6A669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AA089D-7C6A-4397-9F3E-ABE388B6A669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AA089D-7C6A-4397-9F3E-ABE388B6A669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AA089D-7C6A-4397-9F3E-ABE388B6A669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AA089D-7C6A-4397-9F3E-ABE388B6A669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ECDB6D0-7156-46B8-ADA4-E633F2354D04}
+	EndGlobalSection
+EndGlobal
